@@ -1,0 +1,21 @@
+.signup{
+    
+    height: 100vh;
+}
+.column{
+    height: 100vh;
+}
+.sign-up-heading{
+font-size: 100px;
+color: red;
+}
+.input-signup{
+    outline: none;
+}
+
+.btn-signup{
+    background-color: red;
+    color: white;
+    outline: none;
+    border: none;
+}
